@@ -1,4 +1,4 @@
-# homebrew-artemnovichkov
+# homebrew-projects
 
 Unofficial homebrew formulae for my projects:
 
@@ -11,4 +11,4 @@ Artem Novichkov, novichkoff93@gmail.com
 
 ## License
 
-homebrew-artemnovichkov is available under the MIT license. See the LICENSE file for more info.
+homebrew-projects is available under the MIT license. See the LICENSE file for more info.
