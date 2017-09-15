@@ -7,7 +7,7 @@ class Sasha < Formula
 
   head 'https://github.com/artemnovichkov/Sasha.git', :branch => 'master'
 
-  depends_on :xcode => ["8.3", :build]
+  depends_on :xcode => ["9.0", :build]
 
   def install
     system "make", "install", "PREFIX=#{prefix}"
