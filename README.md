@@ -11,4 +11,4 @@ Artem Novichkov, novichkoff93@gmail.com
 
 ## License
 
-Carting is available under the MIT license. See the LICENSE file for more info.
+homebrew-artemnovichkov is available under the MIT license. See the LICENSE file for more info.
