@@ -4,6 +4,7 @@ Unofficial homebrew formulae for my projects:
 
 - [Carting](https://github.com/artemnovichkov/Carting)
 - [Sasha](https://github.com/artemnovichkov/Sasha)
+- [Fastfood](https://github.com/artemnovichkov/fastfood)
 
 ## Author
 
