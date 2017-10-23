@@ -3,7 +3,7 @@ class Splash < Formula
   desc "🚘 Simple tool for updating Carthage script"
   homepage "https://github.com/artemnovichkov/Splash"
   url "https://github.com/artemnovichkov/Splash/archive/1.0.0.tar.gz"
-  sha256 "c2fb9d0c895e4d1fe0be5b69b5ae46680f2395da5e87a051e2c3f327e1190700"
+  sha256 "82fc4afd4d2116eafb6840e40b3036d1a36a9346e4914e6b8137396b7550a39f"
 
   head 'https://github.com/artemnovichkov/Carting.git', :branch => 'master'
 
