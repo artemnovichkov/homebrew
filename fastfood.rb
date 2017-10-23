@@ -2,8 +2,8 @@ class Fastfood < Formula
   
   desc "🍔🍟 Share Fastfile between projects"
   homepage "https://github.com/artemnovichkov/fastfood"
-  url "https://github.com/artemnovichkov/fastfood/archive/1.0.tar.gz"
-  sha256 "c2fb9d0c895e4d1fe0be5b69b5ae46680f2395da5e87a051e2c3f327e1190700"
+  url "https://github.com/artemnovichkov/fastfood/archive/1.3.1.tar.gz"
+  sha256 "b8ad31c975abfc6275aeb047f7aa740943f4d8eaf19a4bd119034deaaca481e1"
 
   head 'https://github.com/artemnovichkov/fastfood.git', :branch => 'master'
 
