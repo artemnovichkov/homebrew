@@ -3,7 +3,7 @@ class Sasha < Formula
   desc "👨‍💼Reduce daily routine with sasha"
   homepage "https://github.com/artemnovichkov/Sasha"
   url "https://github.com/artemnovichkov/sasha/archive/2.0.4.tar.gz"
-  sha256 "eb7fa67988b906f7715d4b58c5ee183c24268f3c9272fd9ba9a257837075d45a"
+  sha256 "e4464fe50ea44655a55742b070dafa068f1c37f8d4006ee3dfa8570abfd8dbce"
 
   head 'https://github.com/artemnovichkov/Sasha.git', :branch => 'master'
 
