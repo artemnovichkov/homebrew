@@ -7,7 +7,7 @@ class Carting < Formula
 
   head 'https://github.com/artemnovichkov/Carting.git', :branch => 'master'
 
-  depends_on :xcode => ["8.3", :build]
+  depends_on :xcode => ["9.3", :build]
 
   def install
     system "make", "install", "PREFIX=#{prefix}"
