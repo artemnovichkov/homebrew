@@ -3,7 +3,7 @@ class Carting < Formula
   desc "🚘 Simple tool for updating Carthage script"
   homepage "https://github.com/artemnovichkov/Carting"
   url "https://github.com/artemnovichkov/Carting/archive/1.2.14.tar.gz"
-  sha256 "5becb35627c8b43f04dee4d3862f2a072fbb5a1e1a790fe6625022b0a5353ba1"
+  sha256 "e1a89786c25e5b01842b1dbe599377a3bec68e7fe82466e54a994a77ec3e851b"
 
   head 'https://github.com/artemnovichkov/Carting.git', :branch => 'master'
 
