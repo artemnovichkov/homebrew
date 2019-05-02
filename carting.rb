@@ -11,6 +11,6 @@ class Carting < Formula
   end
 
   test do
-    system bin/"carting"
+    system bin/"carting", "version"
   end
 end
