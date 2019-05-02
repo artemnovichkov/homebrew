@@ -8,7 +8,7 @@ class Carting < Formula
   depends_on :xcode => ["10.2", :build]
 
   def install
-    system "make", "install", "prefix=#{prefix}"
+    system "make", "install", "PREFIX=#{prefix}"
   end
 
   test do
