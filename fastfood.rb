@@ -1,7 +1,7 @@
 class Fastfood < Formula
   desc "🍔🍟 Share Fastfile between projects"
   homepage "https://github.com/artemnovichkov/fastfood"
-  version "1.4.1"
+  version "1.4.2"
   url "https://github.com/artemnovichkov/fastfood/releases/download/#{version}/fastfood.zip"
 
   depends_on :xcode => ["10.2", :build]
