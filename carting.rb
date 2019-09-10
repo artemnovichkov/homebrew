@@ -1,8 +1,8 @@
 class Carting < Formula
   desc "🚘 Simple tool for updating Carthage scripts"
   homepage "https://github.com/artemnovichkov/Carting"
-  url "https://github.com/artemnovichkov/Carting/archive/2.0.2.tar.gz"
-  sha256 "491787b605feb66ce4796c8756e0e64cc2e0a73a25c09b49b4072ea2a24126db"
+  url "https://github.com/artemnovichkov/Carting/archive/2.1.tar.gz"
+  sha256 "395408a3dc9c3db2b5c200b8722a13a60898c861633b99e6e250186adffd1370"
   head "https://github.com/artemnovichkov/Carting.git"
 
   depends_on :xcode => ["10.2", :build]
