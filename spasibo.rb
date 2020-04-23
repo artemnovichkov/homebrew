@@ -2,7 +2,7 @@ class Spasibo < Formula
   desc "Support your favourite open source frameworks"
   homepage "https://github.com/artemnovichkov/spasibo"
   url "https://github.com/artemnovichkov/spasibo/archive/0.3.tar.gz"
-  sha256 "9a512fc68c852ed0c58c48a2d158c97748e6b4bff91b85c7a18c36ed1db4e1ff"
+  sha256 "2154497ab18806635dcb7e92fbc4d0985fdbab15307cb6d9cca95e4d9113ce2d"
   head "https://github.com/artemnovichkov/spasibo.git"
 
   depends_on :xcode => ["11.0", :build]
