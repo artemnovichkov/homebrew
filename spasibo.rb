@@ -1,7 +1,7 @@
 class Spasibo < Formula
   desc "Support your favourite open source frameworks"
   homepage "https://github.com/artemnovichkov/spasibo"
-  url "https://github.com/artemnovichkov/spasibo/archive/0.3.1.tar.gz"
+  url "https://github.com/artemnovichkov/spasibo/archive/0.3.2.tar.gz"
   sha256 "770bd498205ed4ba9985dcbda55c0247069789aec09a1654efd75f78911fd276"
   head "https://github.com/artemnovichkov/spasibo.git"
 
